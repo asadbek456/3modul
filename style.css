@@ -1,0 +1,31 @@
+.img{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.imgs{
+    display: flex;
+    gap: 10px;
+    color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.k{
+    color: blue;
+    font-size: 50px;
+   
+}
+section{
+    height: 1000px;
+    margin-top: 100px;
+}
+.input{
+    width: 533px;
+    height: 70px;
+}
+.a{
+    gap: 20px;
+}
